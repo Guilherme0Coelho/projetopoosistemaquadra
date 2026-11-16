@@ -1,0 +1,12 @@
+out/
+*.class
+fontes.txt
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+bin/
+.DS_Store
+Thumbs.db
